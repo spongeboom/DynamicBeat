@@ -22,8 +22,7 @@
 
   - Main
 
-  ![main](./main.gif)
-
+ ![main](https://user-images.githubusercontent.com/38533816/62166501-e496e180-b35b-11e9-97e5-5fdbd525dace.gif)
   게임을 실행하게되면 제일먼저 볼수 있는 화면. (게임의 모든 버튼은 Hover 될때, Click 될때의 효과음이 날수 있게 해주었다.)
 
   - 곡 선택 화면
